@@ -168,9 +168,9 @@ Customer Segmentation Analysis
 
 ## Author
 
-**Haplila**
-**Kirana Nurul Hafidza**
-**Nabilla Merita Putri**
+- **Haplila**
+- **Kirana Nurul Hafidza**
+- **Nabilla Merita Putri**
 
 BDA Purwadhika
 
