@@ -4,7 +4,7 @@ Business Analytics project analyzing bank telemarketing campaigns to identify hi
 Google Data studio: https://datastudio.google.com/u/1/reporting/60eebb24-38de-43e1-b2fc-fba9f6c7804a/page/lmF4F/edit
 
 
-# 📊 Bank Marketing Campaign Analysis
+# Bank Marketing Campaign Analysis
 
 Business Analytics project that analyzes telemarketing campaigns for term deposit subscriptions using descriptive and diagnostic analytics.
 
@@ -12,7 +12,7 @@ This project aims to identify customer segments with the highest subscription po
 
 ---
 
-## 📌 Project Background
+## Project Background
 
 Banks rely heavily on telemarketing campaigns to promote term deposit products. However, contacting every customer results in low marketing efficiency because only a small percentage of customers eventually subscribe.
 
@@ -26,7 +26,7 @@ The insights generated are intended to support better customer targeting and cam
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Measure telemarketing campaign performance
 - Identify high-potential customer segments
@@ -36,7 +36,7 @@ The insights generated are intended to support better customer targeting and cam
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 **Source**
 
@@ -54,7 +54,7 @@ Dataset Characteristics
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 - Python
 - Pandas
@@ -67,7 +67,7 @@ Dataset Characteristics
 
 ---
 
-## 📊 Project Workflow
+## Project Workflow
 
 ```
 Business Understanding
@@ -85,7 +85,7 @@ Business Recommendations
 
 ---
 
-## 📈 Exploratory Data Analysis
+## Exploratory Data Analysis
 
 The analysis focuses on three main business questions.
 
@@ -115,7 +115,7 @@ Statistical testing (Chi-Square Test) was also performed to determine whether ca
 
 ---
 
-## 📊 Dashboard
+## Dashboard
 
 An interactive dashboard was developed using **Google Data Studio**.
 
@@ -144,7 +144,7 @@ Customer Segmentation Analysis
 
 ---
 
-## 🔑 Key Findings
+## Key Findings
 
 - Overall campaign conversion rate is **11.27%**.
 - Customers aged **60+**, **students**, **retired customers**, and customers with **university degrees** show relatively higher subscription rates.
@@ -155,7 +155,7 @@ Customer Segmentation Analysis
 
 ---
 
-## 💡 Business Recommendations
+## Business Recommendations
 
 - Prioritize high-potential customer segments.
 - Optimize communication channels by prioritizing cellular contact.
@@ -166,7 +166,7 @@ Customer Segmentation Analysis
 
 ---
 
-## 👤 Author
+## Author
 
 **Haplila**
 **Kirana Nurul Hafidza**
